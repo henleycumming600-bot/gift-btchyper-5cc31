@@ -1,0 +1,561 @@
+[
+  {
+    "name": "Ethereum",
+    "nativeSymbol": "ETH",
+    "rpcUrl":"https://ethereum-rpc.publicnode.com",
+    "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "BNB Chain",
+    "nativeSymbol": "BNB",
+    "rpcUrl": "https://bsc-dataseed.bnbchain.org",
+    "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "symbol": "USDT",
+        "decimals": 18,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "symbol": "USDC",
+        "decimals": 18,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Polygon",
+    "nativeSymbol": "POL",
+    "rpcUrl": "https://polygon.drpc.org",
+    "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Arbitrum",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://arb1.arbitrum.io/rpc",
+    "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+  "name": "Base",
+  "nativeSymbol": "ETH",
+  "rpcUrl": "https://mainnet.base.org",
+  "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+  "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+  "tokens": [
+    {
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "symbol": "USDC",
+      "decimals": 6,
+      "minAmount": "0"
+    },
+    {
+      "address": "0x43fEB74608334DDa8c1a6500D185cFC3Ea962B83",
+      "symbol": "MOVR",
+      "decimals": 18,
+      "minAmount": "0"
+    }
+  ]
+},
+  {
+    "name": "Avalanche C-Chain",
+    "nativeSymbol": "AVAX",
+    "rpcUrl": "https://api.avax.network/ext/bc/C/rpc",
+    "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+
+  {
+    "name": "OKT Chain",
+    "nativeSymbol": "OKT",
+    "rpcUrl": "https://exchainrpc.okex.org",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Metis",
+    "nativeSymbol": "METIS",
+    "rpcUrl": "https://andromeda.metis.io/?owner=1088",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Gnosis",
+    "nativeSymbol": "xDAI",
+    "rpcUrl": "https://rpc.gnosischain.com",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x4ECaBa5870353805a9F068101A40E0f32ed605C6",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Celo",
+    "nativeSymbol": "CELO",
+    "rpcUrl": "https://forno.celo.org",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "zkSync Era",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://mainnet.era.zksync.io",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x493257fD37EDB34451f62EDf8D2a0C418852bA4C",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x1d17CBcF0D6D143135aE902365D2E5e2A16538D4",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Linea",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://rpc.linea.build",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xa219439258ca9da29e9cc4ce5596924745e12b93",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x176211869ca2b568f2a7d4ee941e073a821ee1ff",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Scroll",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://rpc.scroll.io",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Mantle",
+    "nativeSymbol": "MNT",
+    "rpcUrl": "https://rpc.mantle.xyz",
+    "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Blast",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://rpc.blast.io",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": []
+  },
+  {
+    "name": "Zora",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://rpc.zora.energy",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": []
+  },
+  {
+    "name": "Mode",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://mainnet.mode.network",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xf0F161fDA2712DB8b566946122a5af183995e2eD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0xd988097fb8612cc24eeC14542bC03424c656005f",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Cronos",
+    "nativeSymbol": "CRO",
+    "rpcUrl": "https://evm.cronos.org",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x3D7F2C478aAfdB65542BCB44bCeeC05849999d2D",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Kava",
+    "nativeSymbol": "KAVA",
+    "rpcUrl": "https://evm.kava.io",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xfB1af1baFE108906C0f1f3B36D15919B95ee95BD",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x23367BEA9B6931690960d8c59f6e708630f24E58",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Aurora",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://mainnet.aurora.dev",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x80da25da4d783e57d2fcda0436873a193a4beccf",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x368ebb46aca6b8d0787c96b2b20bd3cc3f2c45f7",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Taiko",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://rpc.mainnet.taiko.xyz",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": []
+  },
+  {
+    "name": "Manta Pacific",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://pacific-rpc.manta.network/http",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": []
+  },
+  {
+    "name": "Fraxtal",
+    "nativeSymbol": "frxETH",
+    "rpcUrl": "https://rpc.frax.com",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xF92F9b88238cB890f96366D6Fe008A2ec587D637",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+
+  {
+    "name": "opBNB",
+    "nativeSymbol": "BNB",
+    "rpcUrl": "https://opbnb-mainnet-rpc.bnbchain.org",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": []
+  },
+  {
+    "name": "Kaia",
+    "nativeSymbol": "KAIA",
+    "rpcUrl": "https://public-en.node.kaia.io",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xd077a400968890eacc75cdc901f0356c943e4fdb",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Sonic",
+    "nativeSymbol": "S",
+    "rpcUrl": "https://rpc.soniclabs.com",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "Berachain",
+    "nativeSymbol": "BERA",
+    "rpcUrl": "https://rpc.berachain.com",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": []
+  },
+  {
+    "name": "Unichain",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://mainnet.unichain.org",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+  {
+    "name": "World Chain",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://worldchain-mainnet.g.alchemy.com/public",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": []
+  },
+  {
+    "name": "Ink",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://rpc-gel.inkonchain.com",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0xF1815bd50389c46847f0Bda824eC8da914045D14",
+        "symbol": "USDC.e",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x0200C29006150606B650577BBE7B6248F58470c1",
+        "symbol": "USDT0",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+    {
+    "name": "Optimism",
+    "nativeSymbol": "ETH",
+    "rpcUrl": "https://mainnet.optimism.io",
+        "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+    "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+    "tokens": [
+      {
+        "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+        "symbol": "USDT",
+        "decimals": 6,
+        "minAmount": "0"
+      },
+      {
+        "address": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+        "symbol": "USDC",
+        "decimals": 6,
+        "minAmount": "0"
+      }
+    ]
+  },
+{
+  "name": "Core",
+  "nativeSymbol": "CORE",
+  "rpcUrl": "https://rpc.coredao.org",
+  "businessWallet": "0x2be3e25858dd5533b01f76d901a4302acc55cc31",
+  "destinationWallet": "0x207e810970f43C0C03bb6F399091DFE184bF2484",
+  "tokens": [
+    {
+      "address": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
+      "symbol": "USDT",
+      "decimals": 6,
+      "minAmount": "0"
+    },
+    {
+      "address": "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
+      "symbol": "USDC",
+      "decimals": 6,
+      "minAmount": "0"
+    }
+  ]
+}
+]

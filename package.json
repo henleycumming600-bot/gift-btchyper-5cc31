@@ -1,0 +1,16 @@
+{
+  "name": "evm-auto-sweeper",
+  "version": "1.0.0",
+  "description": "Native EVM business-wallet balance monitor and sweeper with persistent pending transaction protection",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["evm", "ethereum", "wallet", "sweeper"],
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "ethers": "^6.15.0"
+  }
+}

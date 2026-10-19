@@ -1,0 +1,137 @@
+{
+  "pendingTx": null,
+  "networks": {
+    "Ethereum": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "BNB Chain": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Polygon": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Arbitrum": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Avalanche C-Chain": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Base": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "OKT Chain": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Metis": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Gnosis": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Celo": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "zkSync Era": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Linea": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Scroll": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Mantle": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Blast": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Zora": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Mode": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Moonbeam": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Cronos": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Kava": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Aurora": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Taiko": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Manta Pacific": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Fraxtal": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "opBNB": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Kaia": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Sonic": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Berachain": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Unichain": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "World Chain": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Ink": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Optimism": {
+      "nativePending": null,
+      "tokenPending": null
+    },
+    "Core": {
+      "nativePending": null,
+      "tokenPending": null
+    }
+  }
+}
